@@ -18,7 +18,7 @@ Este é um aplicativo de **Realidade Aumentada (AR)** desenvolvido para Android.
 
 Se você deseja utilizar o **modelo físico** do cubo para impressão, recorte e experimento, a imagem está disponível nos arquivos do repositório. Você pode **baixar a imagem do cubo** através do seguinte link e usá-la para criar o modelo real:
 
-- [Baixar a imagem do cubo para impressão](cubo-imagem.png)
+- [Baixar a imagem do cubo para impressão](cubo-imagem.png.png)
 
 ### Observações
 
